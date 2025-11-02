@@ -3,7 +3,7 @@ from elasticsearch import Elasticsearch, helpers
 
 # === CONFIGURATION ===
 ES_ENDPOINT = "https://my-elasticsearch-project-ec4f31.es.asia-south1.gcp.elastic.cloud:443"
-ES_API_KEY = "OFpuRkxwb0JvWFlfM1AwUzRjWm86UGtKVzZfNGhtczZ5U0hwZVByZlZKZw=="
+ES_API_KEY = "Rmloc1Jwb0JXYS1KVlFabk9BT2g6RUZqYlc4alBaRjFJWnFQWFZqVjRBZw=="
 CSV_PATH = "it_asset_inventory_cleaned.csv"
 INDEX_NAME = "it_assets_inventory_cleaned"
 
