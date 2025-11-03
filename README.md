@@ -50,12 +50,7 @@ This mini-project demonstrates a complete data engineering and analytics workflo
 - Top OS Providers
 
 **Screenshots:**
-![Asset by Country](visualization_screenshots/asset%20by%20country.png)
 ![Dashboard](visualization_screenshots/dashboard.png)
-![High vs Low Risk](visualization_screenshots/high%20vs%20low%20risk.png)
-![Lifecycle Status Distribution](visualization_screenshots/lifecycle_status_distribution.png)
-![Top OS Providers](visualization_screenshots/top_os_providers.png)
-
 ---
 
 ## Final Business Insights and Learnings
