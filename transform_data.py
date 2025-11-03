@@ -47,6 +47,7 @@ df = df[df['hostname'].str.strip().str.upper() != 'UNKNOWN']
 actions = [
     {
         "_index": INDEX_NAME,
+        "_id": row['hostname'],
         "_source": row.dropna().to_dict()
     }
     for _, row in df.iterrows()

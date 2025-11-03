@@ -28,6 +28,7 @@ print(f"Read {len(df)} rows from {CSV_PATH}")
 actions = [
 	{
 		"_index": INDEX_NAME,
+		"_id": row['hostname'],
 		"_source": row.dropna().to_dict()
 	}
 	for _, row in df.iterrows()
