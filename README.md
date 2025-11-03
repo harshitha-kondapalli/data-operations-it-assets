@@ -50,7 +50,12 @@ This mini-project demonstrates a complete data engineering and analytics workflo
 - Top OS Providers
 
 **Screenshots:**
-![Dashboard](visualization_screenshots/dashboard.png)
+- Indexing Success:
+	![Indexing Success](visualization_screenshots/indexing_success.png)
+- Transformation Success:
+	![Transformation Success](visualization_screenshots/transformation_success.png)
+- Visualization Dashboard:
+	![Dashboard](visualization_screenshots/dashboard.png)
 ---
 
 ## Final Business Insights and Learnings
